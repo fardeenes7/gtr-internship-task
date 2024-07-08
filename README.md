@@ -1,4 +1,4 @@
-# GTR Internshop Task
+# GTR Internship Task
 
 This project is specifically for the GTR Internship task. The project is a simple python bot using autogen that allows user to ask questions about Bangladesh and get answers from wikipedia.
 
